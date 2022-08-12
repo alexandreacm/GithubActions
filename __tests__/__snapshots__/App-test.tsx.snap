@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All tests renders correctly snapshot test 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#121212",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#FFF",
+        "fontSize": 25,
+      }
+    }
+  >
+    Integration tests with
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#FFF",
+        "fontSize": 25,
+      }
+    }
+  >
+    GithubAction
+  </Text>
+</View>
+`;
